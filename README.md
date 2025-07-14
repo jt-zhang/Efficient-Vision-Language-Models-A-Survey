@@ -1,7 +1,7 @@
 # Efficient Vision Language Models: A Survey
 ![image](https://github.com/user-attachments/assets/0711badd-2511-448e-921e-9ab0328ab5fb) ![image](https://github.com/user-attachments/assets/69f88aea-6af0-4676-a979-3662dd8f250c)
 
-> *Paper* - https://arxiv.org/abs/2504.09724
+> *Paper* - https://onlinelibrary.wiley.com/share/author/4PSWRRQC2WJVIMMAUHDY?target=10.1002/widm.70036
 
 > *Gaurav Shinde*, *Anuradha Ravi*, *Emon Dey*, *Shadman Sakib*, *Milind Rampure*, *Nirmalya Roy*
 
@@ -181,12 +181,17 @@ SmolVLM with 2.2B parameters consistently achieves the highest accuracy across e
 If you find this survey valuable, please cite:
 
 ```bibtex
-@misc{shinde2025surveyefficientvisionlanguagemodels,
-      title={A Survey on Efficient Vision-Language Models}, 
-      author={Gaurav Shinde and Anuradha Ravi and Emon Dey and Shadman Sakib and Milind Rampure and Nirmalya Roy},
-      year={2025},
-      eprint={2504.09724},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.09724}, 
+@article{https://doi.org/10.1002/widm.70036,
+author = {Shinde, Gaurav and Ravi, Anuradha and Dey, Emon and Sakib, Shadman and Rampure, Milind and Roy, Nirmalya},
+title = {A Survey on Efficient Vision-Language Models},
+journal = {WIREs Data Mining and Knowledge Discovery},
+volume = {15},
+number = {3},
+pages = {e70036},
+keywords = {edge devices, efficient vision language models, multimodal models},
+doi = {https://doi.org/10.1002/widm.70036},
+url = {https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.70036},
+eprint = {https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.70036},
+note = {e70036 DMKD-00898.R1},
+year = {2025}
 }
